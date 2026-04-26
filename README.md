@@ -3,7 +3,7 @@ DO NOT CHANGE THE SHARP to the lastest version. IT BUGGY while building with ver
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Getting Started!
 
 First, run the development server:
 
